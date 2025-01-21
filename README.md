@@ -7,3 +7,5 @@ The Raspberry device under test (slave) is connected to, and communicates with, 
 that performs the actual measurements. Measurements include the latency of response tasks in user and kernel space, 
 the response at specific periodic rates on execution of periodic tasks in user and kernel space, 
 the maximum sustained frequency.
+
+COTS-Based Architectural Framework for Reliable Real-Time Control Applications in Manufacturing. MDPI Applied Sciences 2020, 10, 3228. DOI: https://doi.org/10.3390/app10093228
